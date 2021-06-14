@@ -1,0 +1,8 @@
+name: "thermal-statistics"
+description: "A plugin reading thermal camera data and finds max, min, mean, median, and st dev. "
+version : "0.1.0"
+source:
+  architectures :
+    - "linux/amd64"
+    - "linux/arm64"
+  url: "https://github.com/jcorner1/plugin-thermal-stats"
