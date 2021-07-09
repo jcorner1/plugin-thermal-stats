@@ -6,3 +6,6 @@ source:
     - "linux/amd64"
     - "linux/arm64"
   url: "https://github.com/jcorner1/plugin-thermal-stats"
+  branch: "main"
+
+
